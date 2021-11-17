@@ -1,4 +1,11 @@
-<p align="center"><strong>Fiend</strong></p>
+
+
+
+
+
+
+
+<p align="center"><strong> Fiend.</strong></p>
 
 ```python
 class AboutMe:
@@ -23,6 +30,8 @@ class AboutMe:
 ```
 
 <p align="center"><em>Discord: ?!?#1337</em></p>
+<p align="center">  
+</p>
 
 <p align="center">
 </p>
